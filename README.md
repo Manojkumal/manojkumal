@@ -12,7 +12,7 @@
  
 I'm  a Computer Science Student 🚀 currently, I'm a Junior ML Engineer at Bottle Technology.
  
-My innate interest in Artificial Intelligence began when I found myself fascinated by the projects done by seniors in one of the hackathons I attended. Curiosity is the first and the foremost quality which drives a person towards learning new things. My interest, passion, dedication in learning AI, enabled me to acquire significant knowledge on Python and mathematics behind every ML algorithm.
+One of the hackathons I attended sparked my interest in Artificial Intelligence as I was amazed by the projects created by seniors. Curiosity is the first and most important attribute that motivates people to learn new things. Because of my enthusiasm, love, and dedication to learning AI, I was able to get a large amount of expertise in Python and the mathematics behind each ML technique.
  
  
   </div>
