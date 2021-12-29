@@ -14,7 +14,6 @@ I'm  a Computer Science Student 🚀 currently, I'm a Junior ML Engineer at Bott
  
 My innate interest in Artificial Intelligence began when I found myself fascinated by the projects done by seniors in one of the hackathons I attended. Curiosity is the first and the foremost quality which drives a person towards learning new things. My interest, passion, dedication in learning AI, enabled me to acquire significant knowledge on Python and mathematics behind every ML algorithm.
  
-I substantiated my knowledge by opening an instagram page and a website “aihubprojects.com” based on AI. My prodigious appetite for guiding others started from the moment I published my first python ebook on Amazon Kindle. This thrust spurred me to work assiduously and I published Machine Learning from Scratch tutorial series on my website. In the meantime, I created tutorials on various projects and shared them on Website as well as Instagram.
  
   </div>
  
