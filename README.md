@@ -18,9 +18,9 @@ I substantiated my knowledge by opening an instagram page and a website “aihub
  
   </div>
  
-- 🌱 Published Kindle eBook on Python
-- 📫 Published Machine Learning From Scratch on Kindle
-- ⚡  Marketing collaboration with various teams
+
+- 📫 Published Machine Learning Projects Blogs
+
  
 [Download Resume](https://manojkumal.com.np)
  
