@@ -34,6 +34,6 @@ One of the hackathons I attended sparked my interest in Artificial Intelligence 
 - [Flight Price Prediction](https://manojkumal.github.io/Portfolio/post/project-2/)
 <!-- BLOG-POST-LIST:END -->
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwas524&" alt="diwas524" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumal&" alt="manojkumal" /></p>
  
  <img src="https://visitor-badge.glitch.me/badge?page_id=manojkumal.manojkumal" alt="Visitors Counter">
