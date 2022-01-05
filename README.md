@@ -20,7 +20,8 @@ One of the hackathons I attended sparked my interest in Artificial Intelligence 
 
 - 📫 Published Machine Learning Projects Blogs
 
- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojkumal" alt="manojkumal" /></a> </p>
+
 [Download Resume](https://manojkumal.com.np)
  
 ![Diwas's github stats](https://github-readme-stats.vercel.app/api?username=manojkumal&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/manojkumal">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumal&layout=compact&theme=dark)](https://github.com/manojkumal)</a>
@@ -33,5 +34,6 @@ One of the hackathons I attended sparked my interest in Artificial Intelligence 
 - [Flight Price Prediction](https://manojkumal.github.io/Portfolio/post/project-2/)
 <!-- BLOG-POST-LIST:END -->
  
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwas524&" alt="diwas524" /></p>
  
  <img src="https://visitor-badge.glitch.me/badge?page_id=manojkumal.manojkumal" alt="Visitors Counter">
