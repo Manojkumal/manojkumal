@@ -32,6 +32,7 @@ One of the hackathons I attended sparked my interest in Artificial Intelligence 
 <!-- BLOG-POST-LIST:START -->
 - [Bank Loan Prediction ](https://manojkumal.github.io/Portfolio/post/project-1/)
 - [Flight Price Prediction](https://manojkumal.github.io/Portfolio/post/project-2/)
+- [Name Entity Recognition for Nepali text using Spacy](https://medium.com/@manojkumal/name-entity-recognition-for-nepali-text-using-spacy-eafeea0ac00b)
 <!-- BLOG-POST-LIST:END -->
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumal&" alt="manojkumal" /></p>
