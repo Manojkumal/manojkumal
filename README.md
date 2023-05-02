@@ -10,7 +10,7 @@
 <div style="text-align: justify">
  
  
-I'm  a Computer Science Student 🚀 currently, I'm a Junior ML Engineer at SeeLogic.
+I'm  a Computer Science Student 🚀 currently, I'm a Associate AI Engineer at Dogma Group.
  
 One of the hackathons I attended sparked my interest in Artificial Intelligence as I was amazed by the projects created by seniors. Curiosity is the first and most important attribute that motivates people to learn new things. Because of my enthusiasm, love, and dedication to learning AI, I was able to get a large amount of expertise in Python and the mathematics behind each ML technique.
  
