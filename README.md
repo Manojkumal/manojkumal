@@ -24,8 +24,8 @@ One of the hackathons I attended sparked my interest in Artificial Intelligence 
 
 [Download Resume](https://manojkumal.com.np)
  
-![Diwas's github stats](https://github-readme-stats.vercel.app/api?username=manojkumal&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/manojkumal">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumal&layout=compact&theme=dark)](https://github.com/manojkumal)</a>
- 
+![Manoj's github stats](https://github-readme-stats.vercel.app/api?username=manojkumal&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/manojkumal">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumal&layout=compact&theme=dark)](https://github.com/manojkumal)</a>
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
  
  
 📕 **Latest Blog Posts**
@@ -36,5 +36,5 @@ One of the hackathons I attended sparked my interest in Artificial Intelligence 
 <!-- BLOG-POST-LIST:END -->
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumal&" alt="manojkumal" /></p>
- 
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=manojkumal.manojkumal&left_color=green&right_color=red)
  <img src="https://visitor-badge.glitch.me/badge?page_id=manojkumal.manojkumal" alt="Visitors Counter">
