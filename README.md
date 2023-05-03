@@ -25,7 +25,6 @@ One of the hackathons I attended sparked my interest in Artificial Intelligence 
 [Download Resume](https://manojkumal.com.np)
  
 ![Manoj's github stats](https://github-readme-stats.vercel.app/api?username=manojkumal&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/manojkumal">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumal&layout=compact&theme=dark)](https://github.com/manojkumal)</a>
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
  
  
 📕 **Latest Blog Posts**
