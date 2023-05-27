@@ -35,4 +35,4 @@ One of the hackathons I attended sparked my interest in Artificial Intelligence 
 <!-- BLOG-POST-LIST:END -->
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumal&" alt="manojkumal" /></p>
- <img src="https://visitor-badge.glitch.me/badge?page_id=manojkumal.manojkumal" alt="Visitors Counter">
+<!--  <img src="https://visitor-badge.glitch.me/badge?page_id=manojkumal.manojkumal" alt="Visitors Counter"> -->
