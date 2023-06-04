@@ -34,5 +34,6 @@ One of the hackathons I attended sparked my interest in Artificial Intelligence 
 - [Name Entity Recognition for Nepali text using Spacy](https://medium.com/@manojkumal/name-entity-recognition-for-nepali-text-using-spacy-eafeea0ac00b)
 <!-- BLOG-POST-LIST:END -->
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumal&" alt="manojkumal" /></p>
+<!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumal&" alt="manojkumal" /></p> -->
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkumal&label=Profile%20views&color=0e75b6&style=flat" alt="manojkumal" /> </p>
 <!--  <img src="https://visitor-badge.glitch.me/badge?page_id=manojkumal.manojkumal" alt="Visitors Counter"> -->
