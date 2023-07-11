@@ -29,8 +29,8 @@ One of the hackathons I attended sparked my interest in Artificial Intelligence 
  
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Bank Loan Prediction ](https://manojkumal.github.io/Portfolio/post/project-1/)
-- [Flight Price Prediction](https://manojkumal.github.io/Portfolio/post/project-2/)
+- [Bank Loan Prediction ](https://medium.com/@manojkumal/bank-loan-approval-prediction-using-different-machine-learning-algorithms-f69cbf122423)
+- [Flight Price Prediction]([https://manojkumal.github.io/Portfolio/post/project-2/](https://medium.com/@manojkumal/flight-price-prediction-using-different-machine-learning-algorithms-142c92e4652a))
 - [Name Entity Recognition for Nepali text using Spacy](https://medium.com/@manojkumal/name-entity-recognition-for-nepali-text-using-spacy-eafeea0ac00b)
 <!-- BLOG-POST-LIST:END -->
  
