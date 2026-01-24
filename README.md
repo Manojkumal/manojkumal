@@ -10,9 +10,11 @@
 <div style="text-align: justify">
  
  
-I'm  a Computer Science Student 🚀 currently, I'm pursuing my PhD at Michigan Technological University.
- 
-One of the hackathons I attended sparked my interest in Artificial Intelligence as I was amazed by the projects created by seniors. Curiosity is the first and most important attribute that motivates people to learn new things. Because of my enthusiasm, love, and dedication to learning AI, I was able to get a large amount of expertise in Python and the mathematics behind each ML technique.
+### I'm a passionate technologist with a focus on:
+- **Computer Vision** 🖼️: Exploring innovative ways to interpret and analyze visual data.
+- **Natural Language Processing** 🗣️: Developing systems that understand and generate human language.
+- **Generative AI** 🤖: Creating models that produce unique content and solutions.
+- **MLOps** ⚙️📈: Applying DevOps principles to machine learning to streamline model development and deployment.
  
  
   </div>
