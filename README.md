@@ -22,11 +22,14 @@
 
 - 📫 Published Machine Learning Projects Blogs
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojkumal" alt="manojkumal" /></a> </p>
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=manojkumal)](https://github.com/ryo-ma/github-profile-trophy)
 
 [Download Resume](https://manojkumal.com.np)
- 
-![Manoj's github stats](https://github-readme-stats.vercel.app/api?username=manojkumal&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/manojkumal">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumal&layout=compact&theme=dark)](https://github.com/manojkumal)</a>
+
+![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojkumal&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumal&layout=compact&theme=dark)](https://github.com/manojkumal)
+
  
  
 📕 **Latest Blog Posts**
