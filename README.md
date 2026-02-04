@@ -18,20 +18,9 @@
  
  
   </div>
- 
-
-- 📫 Published Machine Learning Projects Blogs
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=manojkumal&no-frame=true&row=1)
-
+   
 [Download Resume](https://manojkumal.com.np)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=manojkumal&show_icons=true&theme=dark&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumal&layout=compact&theme=dark&cache_seconds=86400)
-
-
- 
  
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
