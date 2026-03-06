@@ -23,7 +23,7 @@
  
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Question Answering over Documents using 🦜️LangChain, Streamlit, Ollama and Pinecone](https://medium.com/tai-blog/question-answering-over-documents-using-%EF%B8%8Flangchain-streamlit-ollama-and-pinecone-rag-76635e80da13))
+- [Question Answering over Documents using LangChain, Streamlit, Ollama and Pinecone](https://medium.com/tai-blog/question-answering-over-documents-using-%EF%B8%8Flangchain-streamlit-ollama-and-pinecone-rag-76635e80da13))
 - [The Era of 1-Bit LLM](https://medium.com/@manojkumal/the-era-of-1-bit-llm-9a7bd27761c6)
 - [Summary of Mistral 7B](https://medium.com/tai-blog/summary-of-mistral-7b-1d5ca9a6c17c)
 - [Sliding Window Attention](https://medium.com/@manojkumal/sliding-window-attention-565f963a1ffd)
